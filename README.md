@@ -2,6 +2,7 @@
 
 [![NPM](https://nodei.co/npm/localhost-server.png)](https://www.npmjs.com/package/localhost-server)
 
+A localhost http web server command tool, which creates a localhost:8080/file.html connect locally.
 
 ## Install
 
