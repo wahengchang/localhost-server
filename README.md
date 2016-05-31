@@ -6,7 +6,7 @@ A localhost http web server command tool, which creates a localhost:8080/file.ht
 
 ## Install
 
-```
+```javascript
 $ npm install -g localhost-server
 
 ```
@@ -14,15 +14,15 @@ $ npm install -g localhost-server
 
 ## Usage
 
-```
+```javascript
 // /folder
 //      file.html
 
-$ localhost-server file.html
+$ localhost-server
 
 ```
 
-```
+```javascript
 //Local server create successed
 //Open localhost:8080/file.html
 
