@@ -16,6 +16,18 @@
     "type": "git",
     "url": "git+ssh://git@github.com/wahengchang/localhost-server.git"
   },
+  "keywords": [
+    "localhost",
+    "hosting",
+    "web",
+    "server",
+    "http",
+    "file",
+    "html",
+    "simple",
+    "service",
+    "local"
+  ],
   "dependencies": {
     "node-static": "^0.7.7"
   }
